@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<address_book>
+    <address>
+        <city size="big">Minsk</city>
+        <house>11</house>
+        <street>Y. Kolasa</street>
+    </address>
+    <address>
+        <city size="big">Kiev</city>
+        <house>7</house>
+        <street>T. Shevchenko</street>
+    </address>
+</address_book>
